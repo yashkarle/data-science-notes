@@ -1,3 +1,12 @@
+---
+name: Project
+about: Add ideas for a project
+title: "[Project]"
+labels: ''
+assignees: ''
+
+---
+
 ## TL;DR
 List of ideas, articles and code snippets to understand ...
 
@@ -14,12 +23,12 @@ List of ideas, articles and code snippets to understand ...
 
 ## Useful Code Snippets
 ```R
-
+#R code
 ```
 OR
 
 ```Python
-
+#Python code
 ```
 
 ## Comments/ Questions
